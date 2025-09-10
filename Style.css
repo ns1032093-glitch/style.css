@@ -1,0 +1,18 @@
+/* This is a CSS file */
+
+body {
+  background-color: lightblue;   /* Sets page background */
+  font-family: Arial, sans-serif; /* Changes font */
+  color: darkblue;                /* Text color */
+  text-align: center;             /* Aligns text to center */
+}
+
+h1 {
+  color: navy;        /* Heading color */
+  font-size: 36px;    /* Heading size */
+}
+
+p {
+  font-size: 18px;    /* Paragraph size */
+  line-height: 1.5;   /* Space between lines */
+}
